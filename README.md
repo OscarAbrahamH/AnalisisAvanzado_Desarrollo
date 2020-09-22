@@ -5,7 +5,7 @@
 # 17210897 - Huerta Madueño Oscar Abraham
 
 ## ADF-1702IF8A ANÁLISIS AVANZADO DE SOFTWARE
-## INGENIERIA INFORMATICA
+##         INGENIERIA INFORMATICA
 ---
 
 ### :pencil: Objetivos
