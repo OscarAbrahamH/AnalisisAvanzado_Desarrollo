@@ -2,10 +2,10 @@
     <img alt="Logo" src="https://lh3.googleusercontent.com/proxy/Rbf79DDZ1nfeXGBo_k0MsH-qSP2nG3nQrH0PmJuiY3HvvmoJjF8ooDXJVtVnODgJbw2hL9b_VyfP-RX_HCHOqEh9jRMAbAOUCMd9Blg8MXY-6PfR">
 </p>
 
-# Ingeniería en sistemas computaciones, Tecnologías de la información y comunicación, e Informática
+# 17210897 - Huerta Madueño Oscar Abraham
 
 ## ADF-1702IF8A ANÁLISIS AVANZADO DE SOFTWARE
-
+## INGENIERIA INFORMATICA
 ---
 
 ### :pencil: Objetivos
