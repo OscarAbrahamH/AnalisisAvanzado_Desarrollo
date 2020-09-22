@@ -10,21 +10,11 @@ INGENIERIA INFORMATICA
    
 ---
 
-### :pencil: Objetivos
+### :necktie: Datos del Alumno
 
-+ Conocer y aplica técnicas del desarrollo dirigido por modelos para establecer una clara trazabilidad entre los modelos que **especifican el sistema** y la implementación final obtenida. 
-+ Conocer, aplicar y **desarrollar aplicaciones de software** pertinentes utilizando una metodología de desarrollo dirigida por modelos adecuada. 
-+ Utilizar el desarrollo dirigido por **modelos a dominios específicos** mediante lenguajes de dominio específico (DSL) y mediante la utilización de perfiles sobre el **lenguaje de modelado estándar** (UML).
-  
----
-
-### :necktie: Datos del asesor de la materia
-
-* Nombre: **Leonardo Enriquez Alvarez**
-* Licenciatura: Ingeniería electrónica, especialidad sistemas digitales
-* Maestría: Tecnologías de la información y comunicación
-* Actualización: Agosto, 2020
-* A la fecha de este documento, estoy estudiando un curso de certificación llamado Full stack developer con tecnología Javascript
+* Nombre: **Huerta Madueño Oscar Abraham**
+* Numero de control: 17210897
+* INGENIERIA INFORMATICA
 
 ---
 
