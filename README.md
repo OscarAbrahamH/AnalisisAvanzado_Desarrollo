@@ -20,7 +20,7 @@ INGENIERIA INFORMATICA
 
 ### :books: Contenido de la materia​
 
-1. :book:   [C0.1_OscarHuerta_Zeppelin](blog/C0.1_OscarHuerta_Zeppelin.md)
+1. :book:   [C0.1_OscarHuerta_Zeppelin](https://github.com/OscarAbrahamH/AnalisisAvanzado_Desarrollo/blob/master/AbrahamHDocs/blog/C0.1_OscarHuerta_Zeppelin.md)
 
 2. :book: [Especificación de requisitos de software](docs/D2.0_Especificacion_requisitos.md)
 
