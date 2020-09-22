@@ -18,14 +18,11 @@ INGENIERIA INFORMATICA
 
 ---
 
-### :books: Contenido de la materia​
+### :books: UNIDAD 1​
 
 1. :book:   [C0.1_OscarHuerta_Zeppelin](https://github.com/OscarAbrahamH/AnalisisAvanzado_Desarrollo/blob/master/AbrahamHDocs/blog/C0.1_OscarHuerta_Zeppelin.md)
 
 2. :book: [Especificación de requisitos de software](docs/D2.0_Especificacion_requisitos.md)
 
-3. :book: [Análisis y desarrollo Agil](docs/D3.0_AnalisisArquitectura_y_desarrolloAgil.md)
-
-4. :book: [Código y ejecución](docs/D4.0_Codigo_y_ejecucion.md)
 
 Para conocer el temario en detalle seleccione [aquí](pdf/ADF-1702_AnálisisAvanzadoDeSoftware.pdf).
