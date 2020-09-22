@@ -18,16 +18,9 @@ INGENIERIA INFORMATICA
 
 ---
 
-### :blue_book: Introducción
-
-Durante esta sección el alumno conocerá los temas que se habrá de tratar durante el desarrollo de la materia así como las características de las actividades, y reglas para entrega de actividades de aprendizaje.​ Por lo que es importante conocer la :green_book: [Gestión de curso](docs/D0_Introduccion.md) que se habrá de considerar.
-
-- :book: [Introducción a la ingeniería de software](docs/D0.1_Introduccion_IngenieriaSoftware.md)
----
-
 ### :books: Contenido de la materia​
 
-1. :book:   [Modelado de requisitos](docs/D1.0_Modelado_requisitos.md)
+1. :book:   [C0.1_OscarHuerta_Zeppelin](blog/C0.1_OscarHuerta_Zeppelin.md)
 
 2. :book: [Especificación de requisitos de software](docs/D2.0_Especificacion_requisitos.md)
 
