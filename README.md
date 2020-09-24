@@ -19,6 +19,14 @@ INGENIERIA INFORMATICA
 
 ---
 
+### :necktie: Datos del asesor de la materia
+
+* Nombre: **Leonardo Enriquez Alvarez**
+* Licenciatura: Ingeniería electrónica, especialidad sistemas digitales
+* Maestría: Tecnologías de la información y comunicación
+
+---
+
 ## :books: Trabajos del curso​
 
 ## UNIDAD 1
