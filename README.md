@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Logo" src="https://lh3.googleusercontent.com/proxy/Rbf79DDZ1nfeXGBo_k0MsH-qSP2nG3nQrH0PmJuiY3HvvmoJjF8ooDXJVtVnODgJbw2hL9b_VyfP-RX_HCHOqEh9jRMAbAOUCMd9Blg8MXY-6PfR">
+    <img alt="Logo" src="/img/ITT.jpg">
 </p>
 
 # 17210897 - Huerta Madueño Oscar Abraham
