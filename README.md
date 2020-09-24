@@ -14,6 +14,7 @@ INGENIERIA INFORMATICA
 
 * Nombre: **Huerta Madueño Oscar Abraham**
 * Numero de control: 17210897
+* Equipo: Zeppelin
 * INGENIERIA INFORMATICA
 
 ---
