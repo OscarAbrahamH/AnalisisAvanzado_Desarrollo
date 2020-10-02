@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Logo" src="/img/ITT.jpg">
+    <img alt="Logo" src="https://github.com/OscarAbrahamH/AnalisisAvanzado_Desarrollo/blob/master/img/DIAGRAMA.drawio.svg">
 </p>
 
 # 17210897 - Huerta Madueño Oscar Abraham
