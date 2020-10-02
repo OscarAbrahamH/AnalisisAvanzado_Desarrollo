@@ -40,6 +40,8 @@ INGENIERIA INFORMATICA
 
 4. :book: [C0.4_OscarHuerta_Zeppelin](https://github.com/OscarAbrahamH/AnalisisAvanzado_Desarrollo/blob/master/AbrahamHDocs/blog/C0.4_OscarHuerta_Zeppelin.md)
 
+5. :book: [C1.1_OscarHuerta_Zeppelin.md](https://github.com/OscarAbrahamH/AnalisisAvanzado_Desarrollo/blob/master/AbrahamHDocs/blog/C1.1_OscarHuerta_Zeppelin.md)
+
 ### ->IMG
 1. :book:   [Diagrama de Flujo sobre el proceso y flujo de trabajo RUP](https://github.com/OscarAbrahamH/AnalisisAvanzado_Desarrollo/blob/master/img/CO.3_OscarHuerta_Zeppelin.drawio.svg)
 
@@ -47,4 +49,5 @@ INGENIERIA INFORMATICA
 
 3. :book:   [Sistemas de Adquisición de Datos](https://github.com/OscarAbrahamH/AnalisisAvanzado_Desarrollo/blob/master/img/Sistema%20de%20adquisici%C3%B3n%20de%20datos.drawio.svg)
 
+4. :book:   [Modelado del negocio](https://github.com/OscarAbrahamH/AnalisisAvanzado_Desarrollo/blob/master/img/C1_Diagrama.drawio.svg)
 ### ->DOCS
